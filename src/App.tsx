@@ -114,7 +114,7 @@ function App() {
       <div className='flex flex-col items-center h-[456.7px] bg-[#000000]/70 rounded-[40px]'>
         <div className='inline-flex mt-[60px]'>
           <input className='bg-white h-[116px] w-[1227px] placeholder:text-black placeholder:text-[20px] placeholder:pl-12 placeholder:font-Montserrat rounded-full' placeholder='YOUR DOMAIN NAME HERE...' />
-          <div className='absolute bg-[#F69B00] h-[88.88px] left-[1160px] mt-[13px] w-[296.84px] rounded-full'>
+          <div className='absolute bg-[#F69B00] h-[88.88px] left-[1250px] mt-[13px] w-[296.84px] rounded-full'>
             <span className='relative top-[27.3px] left-[36px] font-Montserrat text-[24px] text-white leading-[34px]'>SEARCH NOW</span>
             <svg className='absolute top-[31.73px] left-[230px] size-[26px]' width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M19.25 17H18.065L17.645 16.595C19.1658 14.831 20.0017 12.579 20 10.25C20 8.32163 19.4282 6.43657 18.3568 4.83319C17.2855 3.22981 15.7627 1.98013 13.9812 1.24217C12.1996 0.50422 10.2392 0.311138 8.34787 0.687344C6.45656 1.06355 4.71927 1.99215 3.35571 3.35571C1.99215 4.71927 1.06355 6.45655 0.687348 8.34787C0.311142 10.2392 0.504225 12.1996 1.24218 13.9812C1.98013 15.7627 3.22982 17.2855 4.83319 18.3568C6.43657 19.4282 8.32164 20 10.25 20C12.665 20 14.885 19.115 16.595 17.645L17 18.065V19.25L24.5 26.735L26.735 24.5L19.25 17ZM10.25 17C6.515 17 3.5 13.985 3.5 10.25C3.5 6.515 6.515 3.5 10.25 3.5C13.985 3.5 17 6.515 17 10.25C17 13.985 13.985 17 10.25 17Z" fill="white" />
